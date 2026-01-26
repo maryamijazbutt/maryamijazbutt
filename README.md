@@ -45,13 +45,13 @@ I focus on building strong technical foundations through consistent practice, cl
 I am actively building portfolio projects that showcase end-to-end data analysis — from raw data to cleaned datasets, insightful queries/models, clear visualizations, and business recommendations.
 
 Projects (coming soon) will include full walkthroughs with:
-- Problem/business context
+- Objectives
 - Data preparation & transformation
 - Key SQL Server queries / Python code
 - Visualizations + main insights
 - Lessons learned & improvements
 
-Feel free to check back or suggest datasets/business scenarios!
+Feel free to check back or suggest datasets / scenarios!
 
 ## 📫 Let's Connect
 
