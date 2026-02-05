@@ -29,7 +29,10 @@ I focus on building strong technical foundations through consistent practice, cl
 
 - 🔍 Asking better, more precise questions of data  
 - 📊 Delivering **business value** through actionable insights — not just visuals  
-- 🛠️ Self-taught and currently deepening: robust Power BI modeling, reproducible Python analysis, Microsoft SQL Server querying
+
+## Education & Certifications
+- **🎓 NCFE Level 3 Certification in Data** [set to finish it in March 2026] Focussing on data cleaning, analysis,statistical methods, and visualisation.
+-  🛠️  Currently deepening: robust Power BI modeling, reproducible Python analysis, Microsoft SQL Server querying
 
 ## 🛠️ Skills & Tools
 
@@ -58,7 +61,7 @@ Feel free to check back or suggest datasets / scenarios!
 Open to:
 - Feedback on work-in-progress projects  
 - Dataset recommendations or business case ideas  
-- Entry-level roles, internships, or mentorship in data analysis  
+- Entry-level roles in data analysis  
 - Conversations about Power BI techniques, SQL Server best practices, learning paths, or career tips
 
 <div align="center">
