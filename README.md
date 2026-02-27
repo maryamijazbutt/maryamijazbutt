@@ -32,16 +32,17 @@ I focus on building strong technical foundations through consistent practice, cl
 
 ## Education & Certifications
 - **🎓 NCFE Level 3 Certification in Data** [set to finish it in March 2026] Focussing on data cleaning, analysis,statistical methods, and visualisation.
-- 🛠️  Currently deepening: robust Power BI modeling, reproducible Python analysis, Microsoft SQL Server querying
+- 🛠️ Currently deepening: robust Power BI modeling, reproducible Python analysis, Microsoft SQL Server querying
+- **⚙️ BSc in Electrical Engineering**
 
 ## 🛠️ Skills & Tools
 
 | Area                  | Technologies & Tools                                      | Comfort Level |
-|-----------------------|-----------------------------------------------------------|---------------|
-| Querying              | Microsoft SQL Server                                      | ★★★★☆        |
-| Spreadsheets          | Excel (Power Query, Pivot Tables, basic DAX), Google Sheets | ★★★★★        |
-| Python                | Pandas, NumPy                                             | ★★★★☆        |
-| Business Intelligence | Power BI (DAX, data modeling, relationships, slicers, drill-through) | ★★★★☆        |
+|------------------------|-----------------------------------------------------------|---------------|
+| Technical Documentation| Microsoft Word                                      | ★★★★★        |
+| Spreadsheets           | Excel (Power Query, Pivot Tables, basic DAX), Google Sheets | ★★★★★        |
+| Python                 | Pandas, NumPy                                             | ★★★★☆        |
+| Business Intelligence  | Power BI (DAX, data modeling, relationships, slicers, drill-through) | ★★★★☆        |
 
 ## 📈 What I'm Working On
 
@@ -62,7 +63,7 @@ Open to:
 - Feedback on work-in-progress projects  
 - Dataset recommendations or business case ideas  
 - Entry-level roles in data analysis  
-- Conversations about Power BI techniques, SQL Server best practices, learning paths, or career tips
+- Conversations about Power BI techniques, Statistical methods, learning paths, or career tips
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maryamijazbutt">
